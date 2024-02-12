@@ -1,5 +1,3 @@
-# Conductor Feedback
-
 <p align="center">
   <img src="./images/conductor-logo.svg"/>
 </p>
